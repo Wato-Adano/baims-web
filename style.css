@@ -1,0 +1,132 @@
+.Search{
+    border-radius: 6px;
+    color: black;
+    border: solid;
+    background-color: white;
+    height: 60px;
+    width: 200px;
+}
+.sign{
+    border-radius: 2px;
+    color: white;
+    
+    
+
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+.learn{
+    border: 2px;
+    width: 200px;
+    color: black;
+    background-color: white;
+    border-radius: 3px;
+}
+.are{
+    font-size: 80px;
+}
+
+.Study{
+    display: flex;
+    justify-content: space-around;
+}
+#container{
+    background-color: rgb(207, 105, 156);
+    border-radius: 20px;
+    border: 2px solid black;
+
+}
+.numbers{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 20px;
+    background-color: lightgoldenrodyellow;
+    height: 150px;
+}
+button{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 70px;
+}
+.baims{
+    font-size: 25px;
+}
+.backs{
+    background-color: blue;
+    padding: 50px;
+    border-radius: 10px;
+}
+@media screen and (min-width: 480px){
+    .Search{
+        border-radius: 6px;
+        color: black;
+        border: solid;
+        background-color: white;
+        height: 60px;
+        width: 200px;
+    }
+    .sign{
+        border-radius: 2px;
+        color: white;
+        
+        
+    
+        
+    }
+    .navbar{
+        display: flex;
+        justify-content: space-around;
+    }
+    .learn{
+        border: 2px;
+        width: 200px;
+        color: black;
+        background-color: white;
+        border-radius: 3px;
+    }
+    .are{
+        font-size: 80px;
+    }
+    
+    .Study{
+        display: flex;
+        justify-content: space-around;
+    }
+    #container{
+        background-color: rgb(207, 105, 156);
+        border-radius: 20px;
+        border: 2px solid black;
+    
+    }
+    .numbers{
+        display: flex;
+        justify-content: space-around;
+        border-radius: 20px;
+        background-color: lightgoldenrodyellow;
+        height: 150px;
+    }
+    button{
+        background-color: black;
+        color: white;
+        height: 50px;
+        width: 70px;
+    }
+    .baims{
+        font-size: 25px;
+    }
+    .backs{
+        background-color: blue;
+        padding: 50px;
+        border-radius: 10px;
+    }
+    
+    
+    
+    
+
+}
+
