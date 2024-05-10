@@ -59,7 +59,7 @@ button{
     margin:4px;
 }
 
-@media screen and (min-width: 480px)and (max-width: 600px) {
+@media screen and (min-width: 480px) {
     .search{
         border-radius: 6px;
         color: black;
@@ -117,7 +117,7 @@ button{
         font-size: 15px;
     }
 }
-@media screen and (min-width: 780px) and (min-width: 1024){
+@media screen and (min-width: 780px){
     .search{
         border-radius: 6px;
         color: black;
